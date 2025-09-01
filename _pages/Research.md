@@ -16,4 +16,4 @@ author_profile: true
 Poster presentation: AGT Annual Meeting 
 Genomic Characterization of Clonal Streptococcus dysgalactiae Hospital Outbreak [https://figshare.com/articles/poster/Genomic_Characterization_of_Clonal_Streptococcus_dysgalactiae_Hospital_Outbreak/29829263]
 
- assets/images/posters/agt.jpg
+ assets/images/posters/AGT.jpg

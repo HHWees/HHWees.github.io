@@ -15,4 +15,4 @@ author_profile: true
 - Association of Genetic Technologists Annual Meeting
   [Genomic Characterization of Clonal Streptococcus dysgalactiae Hospital Outbreak ](https://figshare.com/articles/poster/Genomic_Characterization_of_Clonal_Streptococcus_dysgalactiae_Hospital_Outbreak/29829263)
 
-"/assets/images/AGT.jpeg"
+"/assets/images/AGT.jpg"

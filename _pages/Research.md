@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /Research/
+permalink: /research/
 layout: single
 author_profile: true
 ---
@@ -13,7 +13,7 @@ author_profile: true
 - **Isolation and identification of *Rhodococcus* and their efficacy in bioremediation of heavy metals in biomedical waste ash** — *Libyan Journal of Medical Research* 16(2):12–20, 2022  
   [Link to publication](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=v22PEuAAAAAJ&citation_for_view=v22PEuAAAAAJ:u5HHmVD_uO8C)
 
-## Poster!
+## Poster
 
 - **Poster presentation: AGT Annual Meeting**  
   *Genomic Characterization of Clonal Streptococcus dysgalactiae Hospital Outbreak*  

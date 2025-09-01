@@ -58,8 +58,8 @@ plugins:
 
 author:
   name   : "Hanan Wees"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/hwees.jpg"
+  bio    : "2nd year Graduate student in Diagnostic Genetics and Genomics"
   links:
     - label: "Google scholar"
       icon: "fas fa-fw fa-graduation-cap"

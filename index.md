@@ -8,7 +8,7 @@ author_profile: true
 
 **About me**
 
-Hi there! I am a Fulbright Scholar and a second-year graduate student in Diagnostic Genetics and Genomics at UT MD Anderson Cancer Center in Houston, Texas. My thesis research, under the guidance of Dr. Wenyi Wang, focuses on developing benchmark-informed deconvolution methods to uncover immune heterogeneity within the tumor microenvironment.
+Hi there! I am a Fulbright Scholar and a second-year graduate student in Diagnostic Genetics and Genomics at UT MD Anderson Cancer Center in Houston, Texas. My thesis research, under the guidance of Dr. Wenyi Wang, focuses on developing benchmark-informed deconvolution method to uncover immune heterogeneity within the tumor microenvironment.
 
 I hold a B.S. in Biotechnology and have completed clinical rotations in MD Anderson’s Molecular Diagnostic Laboratory, where I gained hands-on experience in molecular diagnostics workflows and bioinformatics analysis.
 
